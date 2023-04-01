@@ -1,0 +1,4069 @@
+fileFormatVersion: 2
+guid: da6f376482c250e4c8e543a6951464e4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniStalker2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 958
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7ce0a957502194790373809b1251c4
+      internalID: 1460397262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 960
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ed0173ccd5ae4c8fcbe1e16895e07
+      internalID: 1286445021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 959
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad5961ffe267024799081c2d377e36e
+      internalID: 1538675951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 958
+        width: 25
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1addcb45d44dd3a4792f31885316fec2
+      internalID: 2094096190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 959
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df4873ccc3921443ae61228e64d2689
+      internalID: 536004769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 959
+        width: 20
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8017599b1aa9bbb4888bf976d5fb32d6
+      internalID: 1411875780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 955
+        width: 26
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bc3057a4125884aab5eb5fde3a86e2
+      internalID: -1512926659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 957
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07209a6b1d7afd646bba380b862f7152
+      internalID: -1392967945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 956
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e885c37d3a62b7b4abe146b691605776
+      internalID: -1281201610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 955
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3013a614185fea04f9013acb5b2394b9
+      internalID: 807982984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 956
+        width: 42
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73953ecc4b93e944784207519e2779ec
+      internalID: 1320962701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 955
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa29d5c34984f2244924b4646a498de4
+      internalID: 329025589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 909
+        width: 20
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d628826a10dd80742a051feb8f99ecd0
+      internalID: -1003812166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 909
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8490015dd782d0741872a93d412bee23
+      internalID: 1950907780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 909
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51558ca269cc47f479a89cf74fb83a9c
+      internalID: 2071691560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 908
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02767a21b759ef4b8e32b5b0ea9683a
+      internalID: -395669513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 911
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4d9505368088a43ac584e2ca46402e
+      internalID: -497565784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 909
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3be189289ac3584fac6ca76be253e1f
+      internalID: 1497812510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 914
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97e6ac7feda9cf48b009049f8651e8a
+      internalID: -1150465118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 914
+        width: 29
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b9648cd7c2dda4ba11f61c85b13b3e
+      internalID: -613875847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_22
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 914
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857f0bb5e74c1254380e6a4b637e7b11
+      internalID: -1232754977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 914
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55851a3683d62d5489f7132f1fe6b53e
+      internalID: -672908520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_24
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 917
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b9ac8d14f487e46ba07f46fd6100ad
+      internalID: -1692227509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_25
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 915
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ac98306560ff943bed50734de638f0
+      internalID: 1167958232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 872
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec0253829668dd45a086b5ad639a73f
+      internalID: 1249893116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 874
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1c16ea6c885f648a0acb516a53fb9d
+      internalID: -1709897512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_28
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 871
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3c94df0df625e4387ab6c239ec567c
+      internalID: -252450398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_29
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 871
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb172f6de424ba47a436147599046ec
+      internalID: 1880162409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_31
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 871
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5230e3d78dd21648932e53e1e7c2fb9
+      internalID: -1660740153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_32
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 871
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2836397839d354bb58b13d0bfbaa4a
+      internalID: 822253907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 863
+        width: 20
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c0156cbd1610d4e89890d51d126b60
+      internalID: -1590296894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 863
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892800d8b13aacd41aa817082ca30e2b
+      internalID: -977845012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 863
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74339dc51ccced458b2628ed6d1e0ac
+      internalID: 1610589974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_36
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 862
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa17138b6b6dd549aa715786e468906
+      internalID: -2106212037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_37
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 863
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bc63ad016895e448769eae94f33982
+      internalID: -917993513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_38
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 863
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac290ed6bb26984086fe748df03d02a
+      internalID: -164956910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 816
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceee851436602ba47bc8eb26433b3921
+      internalID: -1126922784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 815
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79246bd135bf23049b801ba20d39d578
+      internalID: -1065121411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 815
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d738852386387024984599d8f54a048e
+      internalID: 610266939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_43
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 815
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b523dbf8319274eba6529b362a7e02
+      internalID: -11419848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 816
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98aeb15e46e7a84f9219032dd6b8f03
+      internalID: 1574748697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_45
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 815
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cf368082dd1b9438f4a4469104271c
+      internalID: 915675785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 820
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684470401885834680d25fca9ac025f
+      internalID: 242974844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 823
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc60273c665ad6648a7f125f3926fc12
+      internalID: 1823553537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 820
+        width: 28
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c326c601f82d4d47b48dcd134834b09
+      internalID: 983246098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_50
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 821
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67279718cc6f8994aa519816c0b17ffb
+      internalID: 336784556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_51
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 820
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27e55f84e504ef4186e686d111634df
+      internalID: -340358988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_52
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 819
+        width: 25
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99394e65c6a8f74bbb37ec957760789
+      internalID: 894879065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_53
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 820
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0462d7bcef8d600408c5faa1df4bb77a
+      internalID: -964730605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 816
+        width: 26
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6498fbf23ee7e44439076fcdf1bd6359
+      internalID: -172092979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_55
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 820
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018311c9994f4d64a831cd7b839ea6e7
+      internalID: 142511883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_56
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 820
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea68b39b379c7ea46be78a69d93afc98
+      internalID: -582413706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_57
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 820
+        width: 26
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d503360f89df59f4fb4dd0a2ca32c572
+      internalID: -1766274490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_58
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 819
+        width: 26
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ca79e11e791f54fb007bbacab38b6c
+      internalID: 104289324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_59
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 823
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbcdae6599eac043b0bf232d71c4781
+      internalID: -540624252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_60
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 822
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec727e629c519b429f29dd146a3de0c
+      internalID: 1424060126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_61
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 823
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e0f7d4e45cf0e4f96b425433ca79e3
+      internalID: -913179192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_62
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 823
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9baa2a4cd100654d9c15b1ad29e6ebc
+      internalID: -1340294303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_63
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 823
+        width: 29
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d51caa1e3fafb4582a171a6bbf92e1
+      internalID: 1241844887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_64
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 822
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bc210a507105140a7a1a476033c78f
+      internalID: 102663588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_67
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 816
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8bce7ce5d071547a645b1259984a00
+      internalID: 355211644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_68
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 816
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9795f8eb6680c4844bb2a1caee88dff9
+      internalID: 1022666969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_69
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 774
+        width: 32
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b2e9cdeb226204397c54c4bff0f7dc
+      internalID: -2031169739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_70
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 774
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137c795cab46ca04d8733412250dff9f
+      internalID: 455297996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_71
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 774
+        width: 32
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b9c7f3b51df844a8eebe2b88dded5b
+      internalID: 1712060044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_72
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 774
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9d17fccf7f87b4f83cb5a9a882b113
+      internalID: -213262732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_73
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 777
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e42810c1f7d2f46a907947257d3f15
+      internalID: 894619572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_74
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 775
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7024689a11fa0c439358dca8514fd32
+      internalID: -1842353006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_76
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 770
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc3fe338d12e864b94cceafd2ad2e2c
+      internalID: -609568755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_77
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 768
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8382b4adbf6007a418047f24e12bec10
+      internalID: -1872823536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_78
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 770
+        width: 30
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aae75c8b7219e4e9d0176b8b49f7aa
+      internalID: -705593989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_79
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 770
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79caac4c8be1a714fa7523f0cf28fa17
+      internalID: -93813116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_80
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 770
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139513623057df54aa1b644ecc89259d
+      internalID: 1560087568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_81
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 769
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a64514011a04743b4ed41f488555bf
+      internalID: 1852884320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_82
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 772
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40e4321a59dd294f99c571b18627ce4
+      internalID: -1813737188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_83
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 768
+        width: 25
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55e140542913c948b608ec8b0c29a62
+      internalID: 336463388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_84
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 772
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7557ae7d5763ca45aa586d880a8f5c6
+      internalID: -283517099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_85
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 773
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a156a470550d67a42abb63028cfdcfd3
+      internalID: 1913667693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_86
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 771
+        width: 26
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a64f42f863d2d44fb58e51ccecec3cd
+      internalID: 1951354431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_87
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 770
+        width: 26
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032d9d918c845314abcd2a1842ba0fc5
+      internalID: -1944624034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_88
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 775
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67d8523707873d458e06f6c5cf63172
+      internalID: 1881513304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_89
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 777
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e1e304102d5eb4eb3c487a6a1b34f9
+      internalID: -221486034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_90
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 775
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f087a5ce5a97e8942ba9d46485635157
+      internalID: 658806068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_91
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 776
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b03ff70649f274582013f6b367c356
+      internalID: 451067562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_92
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 774
+        width: 28
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd6bb080aa07294ca7d7d2969bba423
+      internalID: 21897301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_93
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 773
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec16b1f6e712064d9dd97ed0bcdfa9b
+      internalID: -1412897139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 727
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82044ccae0c1d2438f2af5e6b6bad75
+      internalID: 1774171560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_97
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 727
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4924b883f1b8dcb4d9d1901b31ae34b9
+      internalID: 1498860489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_98
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 727
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567640503b94ff541b8c2c02e110ad61
+      internalID: -361995519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_99
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 727
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1486831656cb9fa43b440914ab70a33f
+      internalID: -722555707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_100
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 727
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd68674175af4548a279fb6f9428460
+      internalID: 824698868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_105
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 726
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435ed177f6ce2d2438860e08088ef200
+      internalID: 649722972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_106
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 720
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa421939701cdb64d99a3b9a5c3c8662
+      internalID: -302802039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_107
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 721
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e4a7ff1aac6a846b44000cacd17ba6
+      internalID: 183164167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_108
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 719
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0ee4cd3852ee24b9170df6466d35b1
+      internalID: 1978353898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_109
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 719
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4487b5f727573604f96e1d0fd78d331b
+      internalID: 222432096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_110
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 714
+        width: 23
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac66baeedd9f7d741aa1d159ec46eedb
+      internalID: 1001496388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_111
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 717
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e731fa98cf1c847902e8c4c017c531
+      internalID: -1773892405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_112
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 721
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e62d01d5d670742983274e7a610e10
+      internalID: -341828174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_113
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 722
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66da647691f6d047b54d1f474486471
+      internalID: -849152247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_114
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 720
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283e3d49a58786f4ab0443a5228f28dc
+      internalID: 30442000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_115
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 720
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c37f73dc293af249aec9e529b1ff669
+      internalID: -1012758567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_116
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 720
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5056cfe4709a7da4fba620a65ab09140
+      internalID: 524992472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_117
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 718
+        width: 26
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da7470aa669c624786943790a736930
+      internalID: -1592854494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_119
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 724
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162568a1aeb967843a42f08e68210f67
+      internalID: 352409118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_120
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 725
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa762823f6e6bd49be0c889a48455fd
+      internalID: -1967411365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_121
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 723
+        width: 29
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5847a2d0e335ef14ca220c82abee0dc8
+      internalID: -2112527127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_122
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 723
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c5e5f901282314e92b1b7cd959f224
+      internalID: -1108140735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_123
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 720
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0795b113a53194f45b3d1fa25260e884
+      internalID: -48464690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_124
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 721
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27a41ff66763f748ba0ce371a951464
+      internalID: -740613496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 683
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12a111bd8374a64d810321e31005f18
+      internalID: -1751021943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_131
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 685
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e616a3a7814ef479820b988f3f8ad9
+      internalID: -1602158695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_132
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 682
+        width: 30
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d9d5d5655ee1242ab628fa28a0a186
+      internalID: 1425437855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_134
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 682
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c11017d389a54a958a931003582e8
+      internalID: 1192914649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_135
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 682
+        width: 30
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d5cc6b28fb2fd498cf1a2d15736fa7
+      internalID: 249235210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_137
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 682
+        width: 30
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d0d81fed1c4ad4d9b9d76811879d7d
+      internalID: 1220541689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_138
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 714
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e6e2963f3cbae4aa7cdb09bb98463d
+      internalID: -440494876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_142
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 665
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121159e21b06f624a8c1d2f03427b040
+      internalID: 1582843245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_143
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 666
+        width: 28
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c69378ddd3d75e4390f2d24c1c82f83
+      internalID: 675829576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_144
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 667
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf597bffb8019d44b080064aed88e43
+      internalID: 1944064478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_145
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 667
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018096165519c184298cc9ece7af4454
+      internalID: 929936457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_146
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 669
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b24a51e4a81e7469773ed2804df5f5
+      internalID: -1866101312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_147
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 668
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a2768d0940ad043a21556a812bd101
+      internalID: -116298626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_149
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 667
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961ed108a78ba774aaa4093593e7bb46
+      internalID: 563050892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_150
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 669
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd9e01d3d4613a44a858ca59b4b05d7
+      internalID: 68440279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_151
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 661
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a3b2aca3600524facf67c5d94d5060
+      internalID: 1923978196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_152
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 664
+        width: 26
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a56bfe57e0a2e41997c08d71a40b49
+      internalID: -1992592373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_153
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 669
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7a25790a53c514a8e395f7217c4f73
+      internalID: 1706737019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_154
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 671
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6097a9fe23e6c46baba2a5c967daae
+      internalID: 2101768309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_155
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 670
+        width: 29
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd978d2bde7ba445ae2202794a1c492
+      internalID: -454916015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_156
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 672
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a9f187f1651e74598674ea49e28b54
+      internalID: -2114822058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_157
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 671
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59e4cf6b77957843b6ddaef65a3ffba
+      internalID: -812307197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_158
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 667
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399f22c7174b25745b3cb2331e9af4bf
+      internalID: 1512562526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_160
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 666
+        width: 40
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3399a021d5fb6d34da84e67f0181604e
+      internalID: -1606969037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_161
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 668
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e97c95fa373e264b8e499140d98df5d
+      internalID: -1023617616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_165
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 636
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3a533e2df3cf840aa57e2ee7bef170
+      internalID: -311158304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_166
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 636
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9320cbaaf738374a920d1b6200e7047
+      internalID: -1452501912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_167
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 636
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918ff2f850ede924aab9351fc9783c53
+      internalID: -475231746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_169
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 636
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3f13bfa22f9844fa5e105937374173
+      internalID: -982277035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_170
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 638
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930fa3f2eb6b28442a2d94ad5d7da073
+      internalID: 1855937100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_171
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 635
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8848907138f103b4a8a248d8f883b2b1
+      internalID: -2098568146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_178
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 592
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95419b247de714e4586eab6e04c3fd3b
+      internalID: 1772028835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_179
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 591
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fd9b0f01820734cacbc957d8ada97e
+      internalID: 1468204455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_180
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 591
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce89bcc672e74ab44a1ea295f20a2195
+      internalID: -1343032752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_181
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 591
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc83da25e190e9b408e3c993f36764b2
+      internalID: 1285933357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_182
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 588
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508aac32e194ba54ea4d0915190cabcc
+      internalID: -1150969784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_183
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 591
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf57676fd269224f97d5c6df116eb1d
+      internalID: -258785646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_185
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 592
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20f6418816b9a749ae4b51b5c07e82a
+      internalID: -298587813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_186
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 591
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c144d1d66901dfd4095bd3a142508cfb
+      internalID: -2009854306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_187
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 590
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8501b709853f12d4cbb0a775c82c68c2
+      internalID: 929880288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_188
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 591
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2b7d70fed020c448e0f197e05db81d
+      internalID: -208444206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_189
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 591
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4e91cdc225e3b4481bb1dca1bcda8d
+      internalID: 1643934977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_190
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 590
+        width: 19
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a1ddc61a917d84498b3ed20161efa8
+      internalID: -1923134419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_191
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 550
+        width: 32
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dde2bff1a73fb4eabc759697203813
+      internalID: -1819891488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_192
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 550
+        width: 34
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f791684539200764b9a985990366b6a3
+      internalID: -259537521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_193
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 550
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87971ac64bd498d4bb18978cef653b90
+      internalID: -70963931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_194
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 550
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5d7b7620bc0f24b8c34b8c9acf01a1
+      internalID: -1874430341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_196
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 553
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e936eea3a6414419d98b476b1bef58
+      internalID: -1694445554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_197
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 551
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e33a52e029d1084db600639c5f04052
+      internalID: -1903245779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_198
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 549
+        width: 33
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdfff637692fc64996f4d0da907dc36
+      internalID: -1853787159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_199
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 549
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b7c7d4583dd3342b974fe52e6e09ee
+      internalID: -654284901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_200
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 549
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b27f9979ca3a74e8f9b56dd1699e82
+      internalID: 922491333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_201
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 549
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496725ea46d7e264c974a78bc0fde698
+      internalID: 1108192192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_202
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 552
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b33c6a31911424bbc7c36e9d0f95a2
+      internalID: -346397394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_203
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 550
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7baabc154a6b1a4c802cbdbba71aa0b
+      internalID: 1967080974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_205
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 505
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c0026ab2ea9304d9fdc80025788619
+      internalID: -928093553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_206
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 507
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e910974d0ff684fb4dfe08108c0a51
+      internalID: -1563148218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_207
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 504
+        width: 33
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fd4042862123c42bf7688c007e0e4e
+      internalID: 142542768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_208
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 504
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b48a122a96f2649b438a4d84ea9d48
+      internalID: 1777286358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_209
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 504
+        width: 33
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214fe1c6014f4664fa3ec9a3524e0c64
+      internalID: -1921905188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_210
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 504
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123c77b1d3b0ca846b2e7e2bac69e5f8
+      internalID: 10280932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_211
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 507
+        width: 31
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5728b5b7ae68c2a44950c461d731d7c5
+      internalID: 1184319922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_212
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 509
+        width: 31
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f220affe96b7da44caaebff65a139dc5
+      internalID: -203588749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_213
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 506
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f44cdd15535a84a9197c1bddef3e1f
+      internalID: -13567778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_214
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 506
+        width: 33
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2659c056b58e53147b42e5a12b54f246
+      internalID: -2015992608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_215
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 506
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa39c76dc0a3e0c42bc6cbd779cf05bd
+      internalID: 2069190730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniStalker2_216
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 506
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a06cdbf38e19dd4aa24a58acb92908b
+      internalID: 1206487025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MiniStalker2_114: 30442000
+      MiniStalker2_80: 1560087568
+      MiniStalker2_129: 1190068824
+      MiniStalker2_142: 1582843245
+      MiniStalker2_76: -609568755
+      MiniStalker2_31: -1660740153
+      MiniStalker2_117: -1592854494
+      MiniStalker2_205: -928093553
+      MiniStalker2_161: -1023617616
+      MiniStalker2_146: -1866101312
+      MiniStalker2_86: 1951354431
+      MiniStalker2_122: -1108140735
+      MiniStalker2_0: 1460397262
+      MiniStalker2_130: -1751021943
+      MiniStalker2_4: 536004769
+      MiniStalker2_64: 102663588
+      MiniStalker2_45: 915675785
+      MiniStalker2_164: -1810868881
+      MiniStalker2_88: 1881513304
+      MiniStalker2_152: -1992592373
+      MiniStalker2_178: 1772028835
+      MiniStalker2_189: 1643934977
+      MiniStalker2_183: -258785646
+      MiniStalker2_107: 183164167
+      MiniStalker2_47: 242974844
+      MiniStalker2_51: -340358988
+      MiniStalker2_28: -252450398
+      MiniStalker2_177: -992360927
+      MiniStalker2_85: 1913667693
+      MiniStalker2_63: 1241844887
+      MiniStalker2_91: 451067562
+      MiniStalker2_112: -341828174
+      MiniStalker2_92: 21897301
+      MiniStalker2_101: 677958654
+      MiniStalker2_30: 433571286
+      MiniStalker2_179: 1468204455
+      MiniStalker2_210: 10280932
+      MiniStalker2_99: -722555707
+      MiniStalker2_138: -440494876
+      MiniStalker2_204: 142181229
+      MiniStalker2_206: -1563148218
+      MiniStalker2_199: -654284901
+      MiniStalker2_2: 1538675951
+      MiniStalker2_36: -2106212037
+      MiniStalker2_27: -1709897512
+      MiniStalker2_124: -740613496
+      MiniStalker2_182: -1150969784
+      MiniStalker2_148: 843366764
+      MiniStalker2_25: 1167958232
+      MiniStalker2_156: -2114822058
+      MiniStalker2_52: 894879065
+      MiniStalker2_168: -969755001
+      MiniStalker2_46: -679598804
+      MiniStalker2_81: 1852884320
+      MiniStalker2_128: 1739483004
+      MiniStalker2_155: -454916015
+      MiniStalker2_53: -964730605
+      MiniStalker2_21: -613875847
+      MiniStalker2_42: 610266939
+      MiniStalker2_203: 1967080974
+      MiniStalker2_37: -917993513
+      MiniStalker2_207: 142542768
+      MiniStalker2_29: 1880162409
+      MiniStalker2_172: -393900676
+      MiniStalker2_19: -1788551131
+      MiniStalker2_110: 1001496388
+      MiniStalker2_77: -1872823536
+      MiniStalker2_13: -1003812166
+      MiniStalker2_12: -689236461
+      MiniStalker2_82: -1813737188
+      MiniStalker2_147: -116298626
+      MiniStalker2_23: -672908520
+      MiniStalker2_57: -1766274490
+      MiniStalker2_67: 355211644
+      MiniStalker2_95: 1775212097
+      MiniStalker2_79: -93813116
+      MiniStalker2_140: 22805272
+      MiniStalker2_191: -1819891488
+      MiniStalker2_22: -1232754977
+      MiniStalker2_43: -11419848
+      MiniStalker2_87: -1944624034
+      MiniStalker2_50: 336784556
+      MiniStalker2_118: -1468060853
+      MiniStalker2_214: -2015992608
+      MiniStalker2_78: -705593989
+      MiniStalker2_55: 142511883
+      MiniStalker2_70: 455297996
+      MiniStalker2_26: 1249893116
+      MiniStalker2_162: -791847523
+      MiniStalker2_89: -221486034
+      MiniStalker2_16: -395669513
+      MiniStalker2_137: 1220541689
+      MiniStalker2_58: 104289324
+      MiniStalker2_119: 352409118
+      MiniStalker2_103: 979291865
+      MiniStalker2_135: 249235210
+      MiniStalker2_84: -283517099
+      MiniStalker2_100: 824698868
+      MiniStalker2_198: -1853787159
+      MiniStalker2_188: -208444206
+      MiniStalker2_166: -1452501912
+      MiniStalker2_167: -475231746
+      MiniStalker2_208: 1777286358
+      MiniStalker2_109: 222432096
+      MiniStalker2_49: 983246098
+      MiniStalker2_169: -982277035
+      MiniStalker2_3: 2094096190
+      MiniStalker2_176: -1563733572
+      MiniStalker2_196: -1694445554
+      MiniStalker2_39: -1639346738
+      MiniStalker2_40: -1126922784
+      MiniStalker2_18: 1497812510
+      MiniStalker2_44: 1574748697
+      MiniStalker2_111: -1773892405
+      MiniStalker2_121: -2112527127
+      MiniStalker2_33: -1590296894
+      MiniStalker2_173: 265868359
+      MiniStalker2_132: 1425437855
+      MiniStalker2_97: 1498860489
+      MiniStalker2_98: -361995519
+      MiniStalker2_20: -1150465118
+      MiniStalker2_153: 1706737019
+      MiniStalker2_93: -1412897139
+      MiniStalker2_174: 1807049709
+      MiniStalker2_115: -1012758567
+      MiniStalker2_186: -2009854306
+      MiniStalker2_190: -1923134419
+      MiniStalker2_195: -100389578
+      MiniStalker2_62: -1340294303
+      MiniStalker2_74: -1842353006
+      MiniStalker2_181: 1285933357
+      MiniStalker2_7: -1392967945
+      MiniStalker2_108: 1978353898
+      MiniStalker2_32: 822253907
+      MiniStalker2_157: -812307197
+      MiniStalker2_151: 1923978196
+      MiniStalker2_65: -494726761
+      MiniStalker2_60: 1424060126
+      MiniStalker2_113: -849152247
+      MiniStalker2_11: 329025589
+      MiniStalker2_96: 1774171560
+      MiniStalker2_69: -2031169739
+      MiniStalker2_10: 1320962701
+      MiniStalker2_102: 1166045042
+      MiniStalker2_120: -1967411365
+      MiniStalker2_1: 1286445021
+      MiniStalker2_34: -977845012
+      MiniStalker2_184: 280022416
+      MiniStalker2_126: -1161191908
+      MiniStalker2_180: -1343032752
+      MiniStalker2_185: -298587813
+      MiniStalker2_197: -1903245779
+      MiniStalker2_72: -213262732
+      MiniStalker2_192: -259537521
+      MiniStalker2_104: 1708517666
+      MiniStalker2_116: 524992472
+      MiniStalker2_193: -70963931
+      MiniStalker2_202: -346397394
+      MiniStalker2_123: -48464690
+      MiniStalker2_66: -778794541
+      MiniStalker2_131: -1602158695
+      MiniStalker2_170: 1855937100
+      MiniStalker2_38: -164956910
+      MiniStalker2_71: 1712060044
+      MiniStalker2_5: 1411875780
+      MiniStalker2_106: -302802039
+      MiniStalker2_209: -1921905188
+      MiniStalker2_90: 658806068
+      MiniStalker2_17: -497565784
+      MiniStalker2_163: -753232401
+      MiniStalker2_143: 675829576
+      MiniStalker2_149: 563050892
+      MiniStalker2_15: 2071691560
+      MiniStalker2_144: 1944064478
+      MiniStalker2_24: -1692227509
+      MiniStalker2_75: -266236054
+      MiniStalker2_165: -311158304
+      MiniStalker2_68: 1022666969
+      MiniStalker2_83: 336463388
+      MiniStalker2_48: 1823553537
+      MiniStalker2_201: 1108192192
+      MiniStalker2_59: -540624252
+      MiniStalker2_175: -1629255209
+      MiniStalker2_158: 1512562526
+      MiniStalker2_216: 1206487025
+      MiniStalker2_54: -172092979
+      MiniStalker2_56: -582413706
+      MiniStalker2_212: -203588749
+      MiniStalker2_6: -1512926659
+      MiniStalker2_73: 894619572
+      MiniStalker2_139: -574066177
+      MiniStalker2_127: 1389828229
+      MiniStalker2_35: 1610589974
+      MiniStalker2_133: 856178282
+      MiniStalker2_194: -1874430341
+      MiniStalker2_14: 1950907780
+      MiniStalker2_41: -1065121411
+      MiniStalker2_215: 2069190730
+      MiniStalker2_187: 929880288
+      MiniStalker2_125: -1033479084
+      MiniStalker2_9: 807982984
+      MiniStalker2_200: 922491333
+      MiniStalker2_213: -13567778
+      MiniStalker2_160: -1606969037
+      MiniStalker2_8: -1281201610
+      MiniStalker2_150: 68440279
+      MiniStalker2_171: -2098568146
+      MiniStalker2_61: -913179192
+      MiniStalker2_145: 929936457
+      MiniStalker2_154: 2101768309
+      MiniStalker2_94: 716808224
+      MiniStalker2_159: 1195182294
+      MiniStalker2_136: -1495836295
+      MiniStalker2_105: 649722972
+      MiniStalker2_211: 1184319922
+      MiniStalker2_134: 1192914649
+      MiniStalker2_141: 870220196
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
