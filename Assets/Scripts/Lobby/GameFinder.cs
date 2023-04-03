@@ -25,5 +25,6 @@ public class GameFinder : MonoBehaviourPunCallbacks
     public override void OnJoinRoomFailed(short returnCode, string message)
     {
         Debug.Log("Не удалось войти в игру");
+        Debug.Log(message);
     }
 }

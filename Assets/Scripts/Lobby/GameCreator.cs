@@ -20,7 +20,7 @@ public class GameCreator : MonoBehaviour
             }
             else
             {
-                PhotonNetwork.CreateRoom(gameName.text, new Photon.Realtime.RoomOptions { MaxPlayers = 4 });
+                PhotonNetwork.CreateRoom(gameName.text, new Photon.Realtime.RoomOptions { MaxPlayers = 4, CleanupCacheOnLeave = true });
             }
         }
     }

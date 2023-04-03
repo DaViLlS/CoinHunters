@@ -8,6 +8,14 @@ public class PlayerCoinCollector : MonoBehaviour
 
     public System.Action<int> onCoinCollected;
 
+    public int CoinCount
+    {
+        get
+        {
+            return _coinCount;
+        }
+    }
+
     private void Awake()
     {
         _coinCount = 0;
